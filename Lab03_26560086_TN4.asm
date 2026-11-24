@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Add three scores while saving and restoring a register on the stack.
+
 # Listing 6 - a procedure that breaks the convention
 .text
 .globl main

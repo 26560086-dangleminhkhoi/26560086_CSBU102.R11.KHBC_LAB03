@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Double a number using a procedure.
+
 # Listing 0 - quick check: a first procedure
 .text
 .globl main

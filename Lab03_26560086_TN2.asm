@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Find the larger of two numbers and limit a score to a valid range.
+
 # Listing 2 - max2(a, b) returns the larger of a and b
 .text
 .globl main

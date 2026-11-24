@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Calculate totals, pass counts, minimum and maximum scores.
+
 
 # Listing 4 - a small gradebook library
 .data

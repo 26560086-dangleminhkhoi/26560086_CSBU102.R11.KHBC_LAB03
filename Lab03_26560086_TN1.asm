@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Print a score report using procedures.
+
 # Listing 1 - one procedure, called from two places
 .data
 title:    .asciiz "SCORE REPORT\n"

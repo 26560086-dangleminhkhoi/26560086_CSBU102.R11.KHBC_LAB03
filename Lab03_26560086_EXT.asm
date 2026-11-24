@@ -1,3 +1,7 @@
+# Name: Đặng Lê Minh Khôi
+# Student ID: 26560086
+# Purpose: Find the minimum and maximum scores of two classes.
+
 # Extension
 .data
 classA: .word 72, 55, 90, 48, 63, 85, 39, 77, 60, 94
